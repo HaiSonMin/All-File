@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Ho Chi Minh",
+      "country": "VietNam",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 10.7541691,
+        "lng": 106.0712322
+      },
+      "id": 98443591
+    },
+    {
+      "cityName": "My Position",
+      "country": "VietNam",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 10.847894,
+        "lng": 106.7892458
+      },
+      "id": 1235311
+    },
+    {
+      "cityName": "Phuong 3",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-06-28T08:56:04.988Z",
+      "notes": "Soc Trang it's my was born",
+      "position": {
+        "lat": "9.593979582094619",
+        "lng": "105.9740788917144"
+      },
+      "id": 85425
+    }
+  ]
+}

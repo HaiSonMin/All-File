@@ -1,0 +1,1 @@
+1. Run Ngnix by docker: docker run -it -d --rm -p 8000:80 --name webserver nginx
